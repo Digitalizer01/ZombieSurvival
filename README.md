@@ -1,5 +1,7 @@
 # Zombie Survival
 
+Vídeo: https://youtu.be/6yyBC_RNWA4
+
 ¡Bienvenidos a Zombie Survival! Este es un emocionante juego de supervivencia en un entorno urbano abierto. El objetivo del juego es sobrevivir en una ciudad infestada de zombies utilizando tus habilidades y recursos disponibles. 
 
 ## Características del Juego
