@@ -1,31 +1,29 @@
 # Zombie Survival
 
-Vídeo: https://youtu.be/6yyBC_RNWA4
+Welcome to Zombie Survival! This is an exhilarating survival game set in an open urban environment. The goal of the game is to survive in a city infested with zombies using your skills and available resources.
 
-¡Bienvenidos a Zombie Survival! Este es un emocionante juego de supervivencia en un entorno urbano abierto. El objetivo del juego es sobrevivir en una ciudad infestada de zombies utilizando tus habilidades y recursos disponibles. 
+## Game Features
 
-## Características del Juego
+- **Open Urban Environment**: Explore a small city filled with action and tension.
+- **Playable Character**: Control a fully animated character with abilities to walk, run, jump, turn, and shoot.
+- **Weapons**: Carry a pistol that shoots in a straight line.
+- **HUD**: Always visible, displays health level and ammunition count.
+- **Enemies**: Zombies with advanced AI that patrol the city and run towards you when detected.
+- **Zombie Animations**: Include walking, attacking, dying, and taking hits.
+- **Pedestrians**: Flee in panic if they encounter a zombie.
+- **Vehicles**: Autonomous cars that you can steal and drive.
+- **Visual Effects**: Particle systems for when you get hurt or when you hit or kill a zombie.
+- **Items**: Collect health and ammunition items scattered throughout the city.
+- **Game Menu**: Comprehensive and user-friendly, with options to start the game, adjust volume, and adjust graphics settings.
+- **Game Over Screen**: Allows quick level restart.
 
-- **Entorno Urbano Abierto**: Explora una pequeña ciudad llena de acción y tensión.
-- **Personaje Jugable**: Controla a un personaje completamente animado con habilidades para caminar, correr, saltar, girar y disparar.
-- **Armas**: Lleva una pistola que dispara en línea recta.
-- **HUD**: Siempre visible, muestra el nivel de vida y munición.
-- **Enemigos**: Zombies con IA avanzada que patrullan la ciudad y corren hacia ti cuando te detectan.
-- **Animaciones de Zombies**: Incluyen caminar, atacar, morir y recibir impactos.
-- **Peatones**: Huirán despavoridos si se topan con un zombie.
-- **Vehículos**: Coches que circulan autónomamente y que puedes robar para conducir.
-- **Efectos Visuales**: Sistemas de partículas cuando te hieren o cuando golpeas o matas a un zombie.
-- **Ítems**: Recoge ítems de vida y munición repartidos por la ciudad.
-- **Menú de Juego**: Completo y fácil de usar, con opciones para iniciar partida, ajustar volumen y ajustar gráficos.
-- **Pantalla de Game Over**: Permite reiniciar el nivel rápidamente.
+## Controls
 
-## Controles
+- **Character Movement**: `WASD`
+- **Jump**: `Space`
+- **Shoot**: `Left Mouse Click`
 
-- **Movimiento del Personaje**: `WASD`
-- **Saltar**: `Space`
-- **Disparar**: `Click Izquierdo del Ratón`
+## Technical Requirements
 
-## Requisitos Técnicos
-
-- **Versión de Unity**: 2022.3.20f1
-- **Entrada**: Teclado y Ratón
+- **Unity Version**: 2022.3.20f1
+- **Input**: Keyboard and Mouse
